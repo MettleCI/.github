@@ -1,4 +1,4 @@
-# Open Source Resources
+# MettleCI - DevOps for DataStage
 
 Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source resources on GitHub.
 

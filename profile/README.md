@@ -9,11 +9,11 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
     [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/datafab) |
     <img src="https://img.shields.io/badge/status-released-green?style=flat-square">
 * MettleCI Repository Template -
-    [repository](https://github.mettleci.io/template) |
+    [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/template) |
     [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
     <img src="https://img.shields.io/badge/status-released-green?style=flat-square">
 * MettleCI Jenkins Libraries -
-    [repository](https://github.com/MettleCI/mettleci-jenkins-libs-template) |
+    [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.com/MettleCI/mettleci-jenkins-libs-template) |
     [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
     <img src="https://img.shields.io/badge/status-released-green?style=flat-square"> 
 * Compliance rules for DataStage Classic (v11.x) -

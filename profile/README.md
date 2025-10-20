@@ -4,17 +4,17 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
 
 ## Resources you can find here
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")]
-(https://www.flickr.com/photos/beaurogers/31833779864)
-
-[![Alt text title](picture-url "alt text)](target-link)
-
-
-* MettleCI Data Fabrication generators - [repository](http://github.mettleci.io/datafab) |
-   [<img src="https://img.shields.io/badge/documentation-blue">](https://docs.mettleci.io/datafab) |
-   ![Released](https://img.shields.io/badge/status-released-green) 
-* MettleCI Repository Template - [repository](https://github.mettleci.io/template) | ![https://img.shields.io/badge/documentation-blue](https://docs.mettleci.io/) | ![Released](https://img.shields.io/badge/status-released-green)
-* MettleCI Jenkins Libraries - [repository](https://github.com/MettleCI/mettleci-jenkins-libs-template) | ![https://img.shields.io/badge/documentation-blue](https://docs.mettleci.io/) | ![Released](https://img.shields.io/badge/status-released-green) 
+* MettleCI Data Fabrication generators -
+    [<img src="https://img.shields.io/badge/repository-orange">](http://github.mettleci.io/datafab) |
+    [<img src="https://img.shields.io/badge/documentation-blue">](https://docs.mettleci.io/datafab) |
+    <img src="https://img.shields.io/badge/status-released-green">
+* MettleCI Repository Template -
+    [repository](https://github.mettleci.io/template) |
+    ![https://img.shields.io/badge/documentation-blue](https://docs.mettleci.io/) |
+    ![Released](https://img.shields.io/badge/status-released-green)
+* MettleCI Jenkins Libraries -
+    [repository](https://github.com/MettleCI/mettleci-jenkins-libs-template) |
+    ![https://img.shields.io/badge/documentation-blue](https://docs.mettleci.io/) | ![Released](https://img.shields.io/badge/status-released-green) 
 * Compliance rules for DataStage Classic (v11.x) - ![https://img.shields.io/badge/documentation-blue](https://docs.mettleci.io/) | ![IN DEVELOPMENT](https://img.shields.io/badge/status-under_development-blue) 
 * Flow Analysis Rules for DataStage NextGen (on IBM Cloud Pak) rules - ![https://img.shields.io/badge/documentation-blue](https://docs.mettleci.io/) | ![IN DEVELOPMENT](https://img.shields.io/badge/status-under_development-blue) 
 

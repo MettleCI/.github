@@ -5,18 +5,23 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
 ## Resources you can find here
 
 * MettleCI Data Fabrication generators -
-    [<img src="https://img.shields.io/badge/repository-orange">](http://github.mettleci.io/datafab) |
-    [<img src="https://img.shields.io/badge/documentation-blue">](https://docs.mettleci.io/datafab) |
-    <img src="https://img.shields.io/badge/status-released-green">
+    [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](http://github.mettleci.io/datafab) |
+    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/datafab) |
+    <img src="https://img.shields.io/badge/status-released-green?style=flat-square">
 * MettleCI Repository Template -
     [repository](https://github.mettleci.io/template) |
-    ![https://img.shields.io/badge/documentation-blue](https://docs.mettleci.io/) |
-    ![Released](https://img.shields.io/badge/status-released-green)
+    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
+    <img src="https://img.shields.io/badge/status-released-green?style=flat-square">
 * MettleCI Jenkins Libraries -
     [repository](https://github.com/MettleCI/mettleci-jenkins-libs-template) |
-    ![https://img.shields.io/badge/documentation-blue](https://docs.mettleci.io/) | ![Released](https://img.shields.io/badge/status-released-green) 
-* Compliance rules for DataStage Classic (v11.x) - ![https://img.shields.io/badge/documentation-blue](https://docs.mettleci.io/) | ![IN DEVELOPMENT](https://img.shields.io/badge/status-under_development-blue) 
-* Flow Analysis Rules for DataStage NextGen (on IBM Cloud Pak) rules - ![https://img.shields.io/badge/documentation-blue](https://docs.mettleci.io/) | ![IN DEVELOPMENT](https://img.shields.io/badge/status-under_development-blue) 
+    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
+    <img src="https://img.shields.io/badge/status-released-green?style=flat-square"> 
+* Compliance rules for DataStage Classic (v11.x) -
+    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
+    <img src="https://img.shields.io/badge/status-in_development-blue?style=flat-square">
+* Flow Analysis Rules for DataStage NextGen (on IBM Cloud Pak) rules -
+    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
+    <img src="https://img.shields.io/badge/status-in_development-blue?style=flat-square">
 
 ## Data Migrators Public Repository Disclosure 
 All content in these repositories including code has been provided by Data Migrators under the associated open source software license and Data Migrators is under no obligation to provide enhancements, updates, or support. Data Migrators developers produced this code as an open soruce instructional resrouce (not as a Data Migrators product), and Data Migrators makes no assertions as to the level of quality nor security.

@@ -24,7 +24,7 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
     [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/template-nextgen) |
     [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
     <img src="https://img.shields.io/badge/status-released-green?style=flat-square">
-* Flow Analysis Rules for DataStage NextGen (on IBM Cloud Pak) rules -
+* Flow Analysis Rules for DataStage NextGen -
     [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/flow) |
     [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
     <img src="https://img.shields.io/badge/status-in_development-blue?style=flat-square">

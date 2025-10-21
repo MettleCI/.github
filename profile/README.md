@@ -8,9 +8,7 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
 
 | Description | Repository | Documentation | Status | For |
 | ----------- | ---------- | ------------- | ------ | --- |
-| DataStage Classic Repository Template | [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/template) |
-    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
-    <img src="https://img.shields.io/badge/status-released-green?style=flat-square"> |
+| DataStage Classic Repository Template | [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/template) |  [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |  <img src="https://img.shields.io/badge/status-released-green?style=flat-square"> |
 
 * DataStage Classic Jenkins Libraries -
     [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.com/MettleCI/mettleci-jenkins-libs-template) |

@@ -4,7 +4,11 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
 
 ## Resources you can find here
 
-* DataStage Classic Repository Template | [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/template) |  [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |  <img src="https://img.shields.io/badge/status-released-green?style=flat-square"> |
+* DataStage Classic Repository Template -
+    <img src="https://img.shields.io/badge/datastage-classic-blue?style=flat-square&logo=ibm"> |
+    [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/template) |
+    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
+    <img src="https://img.shields.io/badge/status-released-green?style=flat-square"> |
 * DataStage Classic Jenkins Libraries -
     <img src="https://img.shields.io/badge/datastage-classic-blue?style=flat-square&logo=ibm"> |
     [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.com/MettleCI/mettleci-jenkins-libs-template) |
@@ -15,17 +19,17 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
     [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
     <img src="https://img.shields.io/badge/status-in_development-blue?style=flat-square">
 * DataStage NextGen Repository Template -
-    <img src="https://img.shields.io/badge/datastage-classic-blue?style=flat-square&logo=ibm"> |
+    <img src="https://img.shields.io/badge/datastage-nextgen-blue?style=flat-square&logo=ibm"> |
     [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/template-nextgen) |
     [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
     <img src="https://img.shields.io/badge/status-released-green?style=flat-square">
 * Flow Analysis Rules for DataStage NextGen -
-    <img src="https://img.shields.io/badge/datastage-classic-blue?style=flat-square&logo=ibm"> |
+    <img src="https://img.shields.io/badge/datastage-nextgen-blue?style=flat-square&logo=ibm"> |
     [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/flow) |
     [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
     <img src="https://img.shields.io/badge/status-in_development-blue?style=flat-square">
 * MettleCI Data Fabrication generators -
-    <img src="https://img.shields.io/badge/datastage-classic-blue?style=flat-square&logo=ibm"> |
+    <img src="https://img.shields.io/badge/datastage-all-blue?style=flat-square&logo=ibm"> |
     [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](http://github.mettleci.io/datafab) |
     [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/datafab) |
     <img src="https://img.shields.io/badge/status-released-green?style=flat-square">

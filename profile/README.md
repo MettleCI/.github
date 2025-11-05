@@ -16,7 +16,7 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
     <img src="https://img.shields.io/badge/status-released-green?style=flat-square"> 
 * Compliance rules for DataStage Classic (v11.x) -
     <img src="https://img.shields.io/badge/datastage-classic-blue?style=flat-square&logo=ibm"> |
-    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
+    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/compliance-testing) |
     <img src="https://img.shields.io/badge/status-in_development-yellow?style=flat-square">
 * DataStage NextGen Repository Template -
     <img src="https://img.shields.io/badge/datastage-nextgen-blue?style=flat-square&logo=ibm"> |

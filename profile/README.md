@@ -17,7 +17,7 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
 * Compliance rules for DataStage Classic (v11.x) -
     <img src="https://img.shields.io/badge/datastage-classic-blue?style=flat-square&logo=ibm"> |
     [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/compliance-testing) |
-    <img src="https://img.shields.io/badge/status-in_development-yellow?style=flat-square">
+    <img src="https://img.shields.io/badge/status-soon-yellow?style=flat-square">
 * MettleCI Data Fabrication generators -
     <img src="https://img.shields.io/badge/datastage-all-blue?style=flat-square&logo=ibm"> |
     [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](http://github.mettleci.io/datafab) |
@@ -30,7 +30,7 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
     <img src="https://img.shields.io/badge/datastage-nextgen-blue?style=flat-square&logo=ibm"> |
     [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/template-nextgen) |
     [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/) |
-    <img src="https://img.shields.io/badge/status-released-green?style=flat-square">
+    <img src="https://img.shields.io/badge/status-in_development-yellow?style=flat-square">
 * Flow Analysis Rules for DataStage NextGen -
     <img src="https://img.shields.io/badge/datastage-nextgen-blue?style=flat-square&logo=ibm"> |
     [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/flow) |

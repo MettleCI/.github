@@ -18,7 +18,7 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
 | -------- | ----------- | ---------- | ------------- | ------ |
 | DataStage NextGen Repository Template | MARKETPLACE | [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/template-nextgen) | [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square&logo=confluence">](https://docs.mettleci.io/) | ![status](https://img.shields.io/badge/status-in_development-yellow?style=flat-square) |
 | Flow Analysis Rules for DataStage NextGen | MARKETPLACE | [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/flow) | [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square&logo=confluence">](https://docs.mettleci.io/) | ![status](https://img.shields.io/badge/status-in_development-yellow?style=flat-square) |
-| Azure DevOps Tasks | [<img src="https://img.shields.io/badge/azure-devops-blue.svg">](https://marketplace.visualstudio.com/items?itemName=MettleCI.mcix]) | Private | TBC | TBC |
+| Azure DevOps Tasks | [<img src="https://img.shields.io/badge/azure_marketplace-blue.svg">](https://marketplace.visualstudio.com/items?itemName=MettleCI.mcix]) | - | TBC | TBC |
 | Azure DevOps Example Pipelines | MARKETPLACE | TBC | TBC | TBC |
 | GitHub Actions Custom Actions |  [<img src="https://img.shields.io/badge/github_marketplace-blue?style=flat-square&logo=github">](https://github.com/marketplace?query=mcix) | [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.com/MettleCI/mcix) | TBC | TBC |
 | GitHub Actions Example Pipelines | MARKETPLACE | TBC | TBC | TBC |

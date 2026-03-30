@@ -4,25 +4,13 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
 
 ## DataStage Classic Resources
 
-* DataStage Classic Repository Template -
-    <img src="https://img.shields.io/badge/datastage-classic-blue?style=flat-square&logo=ibm"> |
-    [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/template) |
-    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/building-ci-cd-pipelines) |
-    <img src="https://img.shields.io/badge/status-released-green?style=flat-square"> |
-* DataStage Classic Jenkins Libraries -
-    <img src="https://img.shields.io/badge/datastage-classic-blue?style=flat-square&logo=ibm"> |
-    [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.com/MettleCI/mettleci-jenkins-libs-template) |
-    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/jenkins) |
-    <img src="https://img.shields.io/badge/status-released-green?style=flat-square"> 
-* Compliance rules for DataStage Classic (v11.x) -
-    <img src="https://img.shields.io/badge/datastage-classic-blue?style=flat-square&logo=ibm"> |
-    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/compliance-testing) |
-    <img src="https://img.shields.io/badge/status-soon-yellow?style=flat-square">
-* MettleCI Data Fabrication generators -
-    <img src="https://img.shields.io/badge/datastage-all-blue?style=flat-square&logo=ibm"> |
-    [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](http://github.mettleci.io/datafab) |
-    [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/datafab) |
-    <img src="https://img.shields.io/badge/status-released-green?style=flat-square">
+| Resource | Platform | Repository | Documentation | Status |
+| -------- | -------- | ---------- | ------------- | ------ |
+| DataStage Classic Repository Template | ![badge](https://img.shields.io/badge/datastage-classic-blue?style=flat-square\&logo=ibm) | [<img src="https://img.shields.io/badge/repository-orange?style=flat-square&logo=github">](https://github.mettleci.io/template) | [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square">](https://docs.mettleci.io/building-ci-cd-pipelines) | ![status](https://img.shields.io/badge/status-released-green?style=flat-square) |
+| DataStage Classic Jenkins Libraries            | ![badge](https://img.shields.io/badge/datastage-classic-blue?style=flat-square\&logo=ibm) | [Repository](https://github.com/MettleCI/mettleci-jenkins-libs-template) | [Docs](https://docs.mettleci.io/jenkins)                  | ![status](https://img.shields.io/badge/status-released-green?style=flat-square) |
+| Compliance rules for DataStage Classic (v11.x) | ![badge](https://img.shields.io/badge/datastage-classic-blue?style=flat-square\&logo=ibm) | —                                                                        | [Docs](https://docs.mettleci.io/compliance-testing)       | ![status](https://img.shields.io/badge/status-soon-yellow?style=flat-square)    |
+| MettleCI Data Fabrication generators           | ![badge](https://img.shields.io/badge/datastage-all-blue?style=flat-square\&logo=ibm)     | [Repository](http://github.mettleci.io/datafab)                          | [Docs](https://docs.mettleci.io/datafab)                  | ![status](https://img.shields.io/badge/status-released-green?style=flat-square) |
+
 
 ## DataStage NextGen Resources (In Development) 
 

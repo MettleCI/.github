@@ -11,7 +11,7 @@ Welcome to [Data Migrators](http://www.datamigrators.com)' MettleCI open source 
 | Compliance rules for DataStage Classic | TBC |[<img src="https://img.shields.io/badge/documentation-blue?style=flat-square&logo=confluence">](https://docs.mettleci.io/compliance-testing) | ![status](https://img.shields.io/badge/status-soon-yellow?style=flat-square) |
 | MettleCI Data Fabrication generators | [<img src="https://img.shields.io/badge/githib-mettleci_data_fabrication-orange?style=flat-square&logo=github">](http://github.mettleci.io/datafab) | [<img src="https://img.shields.io/badge/documentation-blue?style=flat-square&logo=confluence">](https://docs.mettleci.io/datafab) | <img src="https://img.shields.io/badge/status-released-green?style=flat-square"> |
 
-## DataStage NextGen Resources (In Development) 
+## DataStage NextGen Resources
 
 | Resource | Repository | Documentation | Status |
 | -------- | ---------- | ------------- | ------ |
